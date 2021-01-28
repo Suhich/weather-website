@@ -1,0 +1,25 @@
+@import './bootstrap.min.css';
+
+
+.light-gray {
+  background-color: #f5f5f5;
+}
+
+.portrait{
+  width: 25%;
+}
+
+body{
+  min-height: 100vh;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+}
+
+main{
+  flex-grow: 1;
+}
+
+.w5{
+  width: 50%;
+}
