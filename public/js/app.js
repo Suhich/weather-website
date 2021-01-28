@@ -1,5 +1,3 @@
-// const forecast = require("../../src/utils/forecast")
-
 const weatherForm = document.querySelector('form')
 const search = weatherForm.querySelector('input')
 const massageOne = document.querySelector('#message-1')
